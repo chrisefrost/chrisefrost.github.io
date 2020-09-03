@@ -1,7 +1,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+# title: ChrisEFrost.cloud
 
 # Your name to show in the footer
 author: Some Person
@@ -11,8 +11,9 @@ author: Some Person
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - AWS Training: "https://www.aws.training/SessionSearch?pageNumber=1&courseId=46405"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - GitHub Guides: "https://guides.github.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
@@ -26,7 +27,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: "/assets/img/avatar-icon.png"
 
 
 # --- Footer social media links --- #
@@ -35,9 +36,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+# facebook: deanattali
+# github: daattali
+#  twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
