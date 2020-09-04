@@ -4,7 +4,7 @@
 # title: ChrisEFrost.cloud
 
 # Your name to show in the footer
-author: Some Person
+author: Chris E Frost
 
 # --- List of links in the navigation bar --- #
 
@@ -41,7 +41,7 @@ title-img: "/assets/img/avatar-icon.png"
 social-network-links:
 #  email: "someone@example.com"
 # facebook: deanattali
-# github: daattali
+  github: chrisefrost
   linkedin: chrisefrost
   twitter: chrisefrost
 #  reddit: yourname

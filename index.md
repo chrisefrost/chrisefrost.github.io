@@ -1,6 +1,6 @@
-#1 Chris E Frost 1
-#2 Chris E Frost 2
-#3 Chris E Frost 3
+# Chris E Frost
+### AWS Stuff | Cloud | IoT | Photography | Travel | Scuba Diving
+
 
 You can use the [editor on GitHub](https://github.com/chrisefrost/ted/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
