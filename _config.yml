@@ -24,7 +24,7 @@
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+# avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -41,21 +41,21 @@ title-img: "/assets/img/avatar-icon.png"
 social-network-links:
 #  email: "someone@example.com"
 # facebook: deanattali
-  github: chrisefrost
+#  github: chrisefrost
   linkedin: chrisefrost
-  twitter: chrisefrost
+  twitter: statusaws
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  instagram: chrisefrost
+#  instagram: chrisefrost
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-#  telegram: yourname
+  telegram: AWSStatusAlerts
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
