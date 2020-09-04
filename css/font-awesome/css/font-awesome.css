@@ -630,10 +630,10 @@
 .fa-facebook:before {
   content: "\f09a";
 }
-.fa-telegram:before {
-	content "\f3fe";
-}
 .fa-github:before {
+  content: "\f09b";
+}
+.fa-telegram:before {
   content: "\f09b";
 }
 .fa-unlock:before {
