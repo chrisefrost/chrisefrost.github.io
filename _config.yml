@@ -9,13 +9,17 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me:
+    - LinkedIn: "https://linkedin.com/in/chrisefrost"
+    - Twitter: "https://twitter.com/chrisefrost"
+    - Instagram: "https://www.instagram.com/chrisefrost"
   Resources:
     - AWS Training: "https://www.aws.training/SessionSearch?pageNumber=1&courseId=46405"
     - Learn markdown: "https://www.markdowntutorial.com/"
     - GitHub Guides: "https://guides.github.com/"
-  Author's home: "https://deanattali.com"
-
+  AWS Stuff:
+    - Status via Twitter: "https://twitter.com/statusaws"
+    - Status via Telegram: "https://t.me/AWSStatusAlerts"
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
